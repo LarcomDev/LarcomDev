@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damon</h1>
-<h3 align="center">Software Engineer @ Motorola Solutions</h3>
+<h3 align="center">Software Engineer II @ Motorola Solutions</h3>
 <p align="center">
   <a href="https://larcom.dev"><img src="https://img.shields.io/badge/Portfolio-larcom.dev-000000?style=for-the-badge&logo=react&logoColor=white" alt="My Website"/></a>
   <a href="mailto:damon@larcom.dev"><img src="https://img.shields.io/badge/Email-damon@larcom.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
