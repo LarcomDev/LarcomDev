@@ -5,10 +5,6 @@
   <a href="mailto:damon@larcom.dev"><img src="https://img.shields.io/badge/Email-damon@larcom.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/damonlarcom"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LarcomDev&color=brightgreen&style=flat-square" alt="Profile views"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/LarcomDev?label=Followers&style=social"/>
-</p>
 
 ---
 
